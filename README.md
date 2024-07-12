@@ -6,22 +6,23 @@ Hello! I'm a Master's graduate in Artificial Intelligence with a strong passion 
 ## Skills & Technologies
 - **Programming Languages:** Python
 - **Libraries & Frameworks:**
-  - PyTorch
-  - TensorFlow
-  - OpenCV
-  - scikit-learn
-  - XGBoost
-  - LightGBM
-  - CatBoost
-  - Keras
-  - Pillow (PIL)
-  - SimpleCV
-  - NLTK
-  - spaCy
-  - Gensim
-  - Transformers (by Hugging Face)
-  - Stanford NLP
-  - TextBlob
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-%23FFBB00.svg?style=for-the-badge&logo=OpenCV&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-%23FF7F0E.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABg3AmvAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH5AgODg0ucF3YEQAAABl0RVh0Q29tbWVudABDcmVhdGVkIHdpdGggR0lNUFeBDhcAAAL0SURBVGhD7Zrda1RRFMfPvmfPJGmyAlKVoFXRIkWQRBF0Vix6pMQRBMEiFYK4VhlB0I/hFCrErwIhEIIKQpVUIFrVgiFihRgQ5ENRRLbQx2FQRqLQtaGVJm7yZd37MxM6NzPpvbmXPuSc1Raf4d+1l35pt+v1raR1tC4UK6HVA72BY8DUwCrwABZjCFcA3OBKso1qIHWEuwzV+TIFU+WkMWVWpQlTjVHoIGeBdjVauEBFoDvAKtwEpjl5tQJWONqp8rIjU7n2V9leGaXA4cIieS4SYiGVqG5D5ohPNTuDRolX0APqqS4t9YXxuvB5wl5JdUMGgWxXgk+yE0i4Uzj5C1KJNa1D9ugLhtgOvW2BfsZPX5+5Z25gATgVPCDFNcUR5KtWmdSP8CRt6tG43gLXI+UdmM6Z9y54w4+qsjoH9GnSihZaA0SHibCXcL7A0bQltDMJ7G+m+Q3nW/6Drt+lN2joXBKv0c6PYxjbTG/CWFqxjNqlti57zizQyZGxlyw2GRibtrAw1BGRirJvY2EtdNcQ4nH+eRm28Vm42YXdf+K9dtgTk6YtmwFPLMeMOWxuRFemdhik+uIMsjv7WWu0lnxPo2EVXX0DuG2pAa6/CBXqTxgfK36s+GFFj9EdQr4D0v7bfNgrWp0RB6UcyZTFy7Q6spajBP2OGDxlXR1uXFA6W6TzgWh1BrfVXPSmF8rJv3G8iYosLGuFZ+tKhrgHWBcLmnwPZnZoZFDpQQCjBlH4bLAnXCvh8wbqsaJZMX4bkwqDXaymoxQrD5N+3SBBJtI50ySL6BhU5cD5V+k9bAmu+n5BCYrCewowBlRKPqNzsoNis6q7Rltahc16dyTQ6gHGAQQxF/O09RWZAcJlS0DQCoqwVSLiEAYRdxViVGKE+7OdPfo8X6ZApKKs1IFARH5okLWWVt8KtbiWfgdlM4N9mZ4BpVK1mXyTa4JcWhdaBPQz3wPS7lWoeWSJQksFtbft3+O+bPywH7AEFVUAAAAASUVORK5CYII=)
+![LightGBM](https://img.shields.io/badge/LightGBM-%2303AF7A.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABsAAAAbCAYAAADPR/0eAAAACXBIWXMAAAsTAAALEwEAmpwYAAAA60lEQVR4nO3Vu0oDQRAG8DcdA9BDESKN1Kzi3YOI8QysnTxOaBlYM3EhXKwWqzSi2lpXlBCnBTcIJG/h1xz2VxfZOnM7+ckzplGDBZlpGk1hrgENsEXjNhCTNsnUC9MtudI+icNQTuIY+uAt47GsIYpc3cG5RHrjJeL+jRuxjgYsoYRVe9AO+LjsCo4dCoGdkEW0kD9QkOxhb4K1q1Izr2N7jG1ILsW1uw06OENWiJ5gzv8L3BGNqB5jOQSHa5QtX4V37DrkocNwYxERmzzhcwB/gPV1ZheNqRDyokTfDXWNeTwlceBU+APl7nhnPpMzQAAAABJRU5ErkJggg==)
+![CatBoost](https://img.shields.io/badge/CatBoost-%23F09E00.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABsAAAAbCAMAAACwQy9YAAAAXVBMVEUAAAAYGBgZGRkZGRkaGhoaGhoaGhoZGRkYGBoaGhoZGhoZGhoaGhoaGhoaGhoYGBoaGhoZGRkZGhoYGBoaGhoZGhoaGhoZGRkaGhoZGhoZGRkZGRkZGRkAAAAYa8FtAAAAGXRSTlMAwKCgpyDgYLBAUABAwLKCwAFGPICyMEGBIGFV2CTAAAAMtJREFUGBllwYENgjAQRNGCaxwRQoKfYg/v/qeCCK0o0//ZDW8ZSBbNh8E6HgR4AA7eT4wZV4LxBo5kT4NJSZlzyAeYW6h4dL6RBf1vhoM5wDuupwB6G7K8wAtpAvoWCUwRg2crMwEzZEB0E1+pkB/MSSy6qRVUe/qoDlZCZ0UGwBCUrt5ALfA1+aoknwnYcIPe14uE3NCgF/pE7WAWrsmfgCM7hXur3X7nIAAAAASUVORK5CYII=)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![Pillow](https://img.shields.io/badge/Pillow-%23FF3E00.svg?style=for-the-badge&logo=Pillow&logoColor=white)
+![SimpleCV](https://img.shields.io/badge/SimpleCV-%23669DB3.svg?style=for-the-badge&logo=SimpleCV&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-%2300A300.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABsAAAAbCAYAAADPR/0eAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAM0lEQVR4nO3NMQEAAAACIP1/9hc3KAYCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAwAKNgAB5BoKvwAAAABJRU5ErkJggg==)
+![spaCy](https://img.shields.io/badge/spaCy-%23006CFF.svg?style=for-the-badge&logo=spaCy&logoColor=white)
+![Gensim](https://img.shields.io/badge/Gensim-%23B4D233.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABsAAAAbCAYAAADPR/0eAAAACXBIWXMAAAsTAAALEwEAmpwYAAAA60lEQVR4nO3Vu0oDQRAG8DcdA9BDESKN1Kzi3YOI8QysnTxOaBlYM3EhXKwWqzSi2lpXlBCnBTcIJG/h1xz2VxfZOnM7+ckzplGDBZlpGk1hrgENsEXjNhCTNsnUC9MtudI+icNQTuIY+uAt47GsIYpc3cG5RHrjJeL+jRuxjgYsoYRVe9AO+LjsCo4dCoGdkEW0kD9QkOxhb4K1q1Izr2N7jG1ILsW1uw06OENWiJ5gzv8L3BGNqB5jOQSHa5QtX4V37DrkocNwYxERmzzhcwB/gPV1ZheNqRDyokTfDXWNeTwlceBU+APl7nhnPpMzQAAAABJRU5ErkJggg==)
+![Transformers](https://img.shields.io/badge/Transformers-%23FFBF00.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABsAAAAbCAYAAADPR/0eAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAOElEQVR4nO3NMQEAAAACIP1/9hc3KAYCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAwAKNgAB5BoKvwAAAABJRU5ErkJggg==)
+![Stanford NLP](https://img.shields.io/badge/Stanford%20NLP-%23FF0000.svg?style=for-the-badge&logo=Stanford&logoColor=white)
+![TextBlob](https://img.shields.io/badge/TextBlob-%234B0082.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABsAAAAbCAYAAADPR/0eAAAACXBIWXMAAAsTAAALEwEAmpwYAAAA60lEQVR4nO3Vu0oDQRAG8DcdA9BDESKN1Kzi3YOI8QysnTxOaBlYM3EhXKwWqzSi2lpXlBCnBTcIJG/h1xz2VxfZOnM7+ckzplGDBZlpGk1hrgENsEXjNhCTNsnUC9MtudI+icNQTuIY+uAt47GsIYpc3cG5RHrjJeL+jRuxjgYsoYRVe9AO+LjsCo4dCoGdkEW0kD9QkOxhb4K1q1Izr2N7jG1ILsW1uw06OENWiJ5gzv8L3BGNqB5jOQSHa5QtX4V37DrkocNwYxERmzzhcwB/gPV1ZheNqRDyokTfDXWNeTwlceBU+APl7nhnPpMzQAAAABJRU5ErkJggg==)
+
 
 ## Projects
 Here are some of the projects I've worked on:
